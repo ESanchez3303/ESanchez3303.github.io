@@ -33,7 +33,7 @@ We do not share your personal information with third parties, except as necessar
 
 ### Your Control
 
-You may update or delete your information at any time within the App. If you wish to request full data deletion, you may contact me through email, and I will provide proof that your information has been removed completely.
+You may update or delete your information at any time within the App. 
 
 ### Security
 
