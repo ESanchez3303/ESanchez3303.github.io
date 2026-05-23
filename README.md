@@ -69,7 +69,7 @@ We may update this Privacy Policy from time to time. Updates will be posted on t
 # Another Training Program
 
 ### Contact Me
-Email: anothertrainingprogram@gmail.com
+Email: AnotherTrainingProgram@gmail.com
 
 ---
 
