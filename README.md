@@ -1,9 +1,9 @@
+# Another Habit Tracker
+
 ### Contact Me
-Email: anothertrainingprogram@gmail.com
+Email: AnotherHabitTracker@gmail.com
 
 ---
-
-# Another Habit Tracker
 
 ### Overview
 
@@ -67,6 +67,11 @@ We may update this Privacy Policy from time to time. Updates will be posted on t
 ---
 
 # Another Training Program
+
+### Contact Me
+Email: anothertrainingprogram@gmail.com
+
+---
 
 ### Overview
 
